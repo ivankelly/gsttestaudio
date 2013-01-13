@@ -1,0 +1,7 @@
+To build:
+
+   cmake .
+   make
+
+To test:
+   sh test.sh
